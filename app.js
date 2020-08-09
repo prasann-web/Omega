@@ -3,15 +3,24 @@
 
 ///Edit Under This
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+
+  apiKey: "AIzaSyCe7U6AQBigkjv2XDjeNy9gMsK3Bw6OHAQ",
+
+  authDomain: "sharma-df0a3.firebaseapp.com",
+
+  databaseURL: "https://sharma-df0a3.firebaseio.com",
+
+  projectId: "sharma-df0a3",
+
+  storageBucket: "sharma-df0a3.appspot.com",
+
+  messagingSenderId: "169769891088",
+
+  appId: "1:169769891088:web:ce6bab0fa572386c40a195",
+
+  measurementId: "G-S6CVJ022B1"
+
 };
 
      
